@@ -1,0 +1,23 @@
+{
+  "name": "gamecraft-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciejWaligora/gamecraft-model.git"
+  },
+  "author": "Maciej Waligora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciejWaligora/gamecraft-model/issues"
+  },
+  "homepage": "https://github.com/MaciejWaligora/gamecraft-model#readme",
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
